@@ -33,3 +33,11 @@
 .projects__button:hover .projects__button-icon {
     transform: translateY(0.25rem);
 }
+
+@media screen and (max-width: 576px) {
+    .projects__container {
+        grid-template-columns: 1fr;
+    }
+
+    
+  }
