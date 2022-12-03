@@ -54,9 +54,9 @@ const Data = () => {
                   ></path>
                 </svg>
             </h1>
-            <h3 className="home__subtitle">Frontend Developer</h3>
+            <h3 className="home__subtitle">Full Stack Developer</h3>
             <p className="home__description">
-                I'm an ambitious frontend developer and I like achieving challenging projects with excellence within a short time.
+                I'm an ambitious Full Stack Developer and I like achieving challenging projects with excellence within a short time.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello 

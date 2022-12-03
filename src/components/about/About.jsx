@@ -15,8 +15,8 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                    Frontend developer, I have a good experience in HTML5, CSS3, Bootstrap, JavaScript and React js.
-                     I'm seeking a position in Frontend development where I can apply my knowledge and skills for continuous improvement.
+                    Full Stack Developer, I have a good experience in HTML5, CSS3, Bootstrap, JavaScript, PHP, Laravel framework, MySQL.
+                     I'm seeking a position in Full Stack development where I can apply my knowledge and skills for continuous improvement.
                     </p>
 
                     <a download="" href={CV} className="button button--flex">
